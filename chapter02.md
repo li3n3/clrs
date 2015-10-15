@@ -8,3 +8,12 @@
 * Rewrite the INSERTION-SORT procedure to sort into nonincreasing instead of
   non-decreasing order
   * Okay! See FILENAME
+
+2.1-3 has its own file in exercises/
+
+2.1-4:
+* Consider the problem of adding two n-bit binary integers, stored in two
+  n-element arrays A and B. The sum of the two integers should be stored in
+  binary form in an (n + 1)-element array C. State the problem formally and write
+  pseudocode for adding the two integers.
+  * TODO: decode this
