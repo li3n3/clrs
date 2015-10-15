@@ -53,9 +53,10 @@ Exercises:
   the same machine. For inputs of size n, insertion sort runs in 8n^2 steps,
   while merge sort runs in 64n lg n steps. For which values of n does insertion
   sort beat merge sort?
-  * TODO: okay this is where I left off
+  * TODO: look up the math of this again; it's been years and years
 
 1.2-3
 * What is the smallest value of n such that an algorithm whose running time is
   100n^2 runs faster than an algorithm whose running time is 2^n on the same
   machine?
+  * Also gonna need to review some math here.
